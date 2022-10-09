@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.box{
+   padding: 1em;
+   border-radius:1em;
+   background-color:lightgrey; 
+   display:inline-block;
+}
+
+.small{
+font-size:12px;
+}
+.big{
+    font-size:18px;
+}
